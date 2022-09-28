@@ -1,0 +1,23 @@
+{
+  "name": "asl_project1",
+  "version": "1.0.0",
+  "description": "### This is the repository for my project in ASSL class this month.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiFrescoTisha-FS/asl_project1.git"
+  },
+  "keywords": [],
+  "author": "Tisha Di Fresco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiFrescoTisha-FS/asl_project1/issues"
+  },
+  "homepage": "https://github.com/DiFrescoTisha-FS/asl_project1#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
