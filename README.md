@@ -1,4 +1,4 @@
-# ASSL Main Project
+# ASL Main Project
 
 ### This is the repository for my project in ASSL class this month.
 
